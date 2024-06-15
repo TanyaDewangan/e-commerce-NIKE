@@ -18,11 +18,6 @@ An E-Commerce website for Nike, using HTML, CSS, JavaScript and some more (Pure 
 ![5.png](ScreenShots/5.png)
 
 
-## Author
 
-
-👤 **Gitesh Dewangan**
-* Github: https://github.com/GiteshDewangan
-* LinkedIn: https://www.linkedin.com/in/gitesh-dewangan-43985222a/
 
 
